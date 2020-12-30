@@ -15,3 +15,5 @@ Distance Formula:
 )*cos(radians(split(person_cood,',')[1]-split(person_cood,',')[3]))))))/PI())
 
 
+Refer Script.hql file for solution.
+
