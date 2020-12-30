@@ -10,9 +10,9 @@ Output:
 
 Distance Formula:
 ----------------
-60*1.1515*(180*(acos(((sin(radians(split(person_cood,',')[0]))*sin(radians(split(person_cood,',')[2]))) + 
+"60*1.1515*(180*(acos(((sin(radians(split(person_cood,',')[0]))*sin(radians(split(person_cood,',')[2]))) + 
 (cos(radians(split(person_cood,',')[0]))*cos(radians(split(person_cood,',')[2])
-)*cos(radians(split(person_cood,',')[1]-split(person_cood,',')[3]))))))/PI())
+)*cos(radians(split(person_cood,',')[1]-split(person_cood,',')[3]))))))/PI())"
 
 
 Refer Script.hql file for solution.
